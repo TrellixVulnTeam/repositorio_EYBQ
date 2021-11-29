@@ -1,0 +1,32 @@
+Aplique Meta description, keywords y titles a todas las paginas de mi html { INDEX, INTERIORES, EXTERIORES, UBICACION, CONTACTANOS Y ENVIOS}
+
+
+INDEX:  <meta name="description" content="Pagina de inicio">
+  	<meta name="Keywords" content="Pinturas, pintura, interiores, exteriores, edificación, pintor, construccion">
+  	<title>Inicio</title>
+
+INTERIORES:  <meta name="Description" content="Apartado de pinturas interiores">
+    	     <meta name="Keywords" content="Pinturas, pintura, construccion, arquitectos, interiores, remodelación, renovación">
+  	     <title>Pinturas de interiores</title>
+
+
+EXTERIORES:      <meta name="Description" content="Apartado de pinturas interiores">
+    	         <meta name="Keywords" content="Pinturas, pintura, construccion, arquitectos, interiores, remodelación, renovación">
+    		 <title>Pinturas de exteriores</title>
+
+
+UBICACION:   <meta name="Description" content="Ubicacion del local">
+    	     <meta name="Keywords" content="Ubicacion, donde estamos, localidad, direccion, zona">
+    	     <title>Ubicación del local</title>
+
+
+
+CONTACTANOS:      <meta name="Description" content="Apartado de contacto">
+    		  <meta name="Keywords" content="Contacto, consultas, dudas, quejas, feedback">
+    		  <title>Contactanos, envianos tu consulta</title>
+
+ENVIOS:     <meta name="Description" content="Apartado de envios">
+    	    <meta name="Keywords" content="Envios, entregas, entregas a todo el pais, Argentina, pinturas">
+    	    <title>Envios, envios a todo el pais</title>
+
+
